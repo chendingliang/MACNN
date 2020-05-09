@@ -104,7 +104,7 @@ We select the following metrics to evaluate the performance of each method: Wins
 
 
 ## Averaged Classification Results
-Since the initial weights of deep learning based models may result in the bias [[Fawaz et al.]](https://arxiv.org/abs/1809.04356), we take the same strategy to run the experiments 10 times and compare the averaged error rate with the top two deep learning models according to the study of Fawaz et al. We add one more evaluation metric named as Mean Standard Deviation (MSD) to measure the stability of the model.
+Since the initial weights of deep learning based models may result in the bias [[Fawaz et al.]](https://arxiv.org/abs/1809.04356), we take the same strategy to run the experiments 10 times and compare the averaged error rate with the top two deep learning models according to the study of Fawaz et al. Noted that, the values in the parentheses refer to the standard deviation, and we add one more evaluation metric named as Mean Standard Deviation (MSD) to measure the stability of the model.
 
 |                                |       |        |       |       |         |
 |--------------------------------|-------|--------|-------|-------|---------|  

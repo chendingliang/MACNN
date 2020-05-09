@@ -102,4 +102,6 @@ We select the following metrics to evaluate the performance of each method: Wins
 |GMR	|5.978|	4.864	|3.31	|7.115|	4.525|5.398	|4.02|	2.961|	2.129|
 |ME|	0.1666	|0.1421	|0.1308	|0.1882|	0.156	|0.1615|	0.1413|	0.1253|	0.1181|
 
+Since the initial weights of deep learning based models may result in the bias [[Fawaz et al.](https://arxiv.org/abs/1809.04356)
+
 
